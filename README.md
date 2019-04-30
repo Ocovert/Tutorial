@@ -5,16 +5,16 @@ For my Final Project for INFOTC 2600 I am creating a tutorial on the different c
 
 ## INDEX
 
-* [Computer Processing Unit(CPU)](/Covert_CPU.md)
+* [Computer Processing Units(CPU)](/Covert_CPU.md)
 
 * [Solid State Drive(SSD)/Hard Disk Drive(HDD)](/Covert_Drives.md)
 
-* [Mother Board](/Covert_MB.md)
+* [Mother Boards](/Covert_MB.md)
 
 * [Random Access Memory(RAM)](/Covert_RAM.md)
 
-* [Grapics Card(GPU)](/Covert_GPU.md)
+* [Grapics Cards(GPU)](/Covert_GPU.md)
 
-* [Power Suply(PSU)](/Covert_PSU.md)
+* [Power Suplies(PSU)](/Covert_PSU.md)
 
 * [Check Components & Compatability](/Covert_Build.md)
