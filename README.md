@@ -5,7 +5,7 @@ For my Final Project for INFOTC 2600 I am creating a tutorial on the different c
 
 ## INDEX
 
-* Computer Processing Unit(CPU)
+* [Computer Processing Unit(CPU)](Ocovert/Tutorial/Covert_CPU.md)
 
 * Solid State Drive(SSD)/Hard Disk Drive(HDD)
 
