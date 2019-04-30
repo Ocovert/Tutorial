@@ -7,14 +7,14 @@ For my Final Project for INFOTC 2600 I am creating a tutorial on the different c
 
 * [Computer Processing Unit(CPU)](/Covert_CPU.md)
 
-* Solid State Drive(SSD)/Hard Disk Drive(HDD)
+* [Solid State Drive(SSD)/Hard Disk Drive(HDD)](/Covert_Drives)
 
-* Mother Board
+* [Mother Board](/Covert_MB)
 
-* Random Access Memory(RAM)
+* [Random Access Memory(RAM)](/Covert_RAM)
 
-* Grapics Card(GPU)
+* [Grapics Card(GPU)](/Covert_GPU)
 
-* Power Suply(PSU)
+* [Power Suply(PSU)](/Covert_PSU)
 
-* Check Components & Compatability
+* [Check Components & Compatability](/Covert_Build)
