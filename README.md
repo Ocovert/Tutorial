@@ -5,7 +5,7 @@ For my Final Project for INFOTC 2600 I am creating a tutorial on the different c
 
 ## INDEX
 
-* [Computer Processing Unit(CPU)](../Covert_CPU.md)
+* [Computer Processing Unit(CPU)](/Covert_CPU.md)
 
 * Solid State Drive(SSD)/Hard Disk Drive(HDD)
 
@@ -18,4 +18,3 @@ For my Final Project for INFOTC 2600 I am creating a tutorial on the different c
 * Power Suply(PSU)
 
 * Check Components & Compatability
-
