@@ -12,5 +12,8 @@ SSDs rely on electronic storage in non-volatile memory, meaning that data won’
 ***
 
 ### The Breakdown
-HDDs usually have more memory allowing the user to 
+| Drive        | Cost    | Speed  | Durability        | Highest Capacity    | Energy Efficiency  |
+| ------------- |:--------:| -----:| ------------- |:--------:| -----:|  
+| HDD      | Cheap | Slower | Less Durable | 10 TB | Less Efficient |
+| SSD      | Expensive | Faster | More Durable | 4 TB | More Efficient |
 
