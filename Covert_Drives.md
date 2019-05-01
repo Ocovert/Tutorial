@@ -1,5 +1,5 @@
 # Hard Disk Drives & Solid State Drives
-<p>- This acts as the longterm memory of the computer. Where things such as the users Apps, Photos, Music, and Documents are stored.</p>
+_This acts as the longterm memory of the computer. Where things such as the users Apps, Photos, Music, and Documents are stored._
 
 ***
 
