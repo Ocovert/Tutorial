@@ -1,4 +1,4 @@
-# System Power Supply
+# Power Supply Unit(PSU)
 _The heart of every computer._
 
 ***
