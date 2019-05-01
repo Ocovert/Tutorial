@@ -1,2 +1,2 @@
-# The Computer Processing Unit (CPU)
-
+# The Central Processing Unit (CPU)
+_The Brain_
