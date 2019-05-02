@@ -13,5 +13,16 @@ _Everything I have taught you up until now has lead to this moment, if you so ch
 
 ***
 
+### Are You
+Still Confused?
+Short On Time?
+Too Lazy To Read All My Words?
+
+Then Enjoy This Short 8 minute video
+
+<a href="https://www.youtube.com/watch?v=ExxFxD4OSZ0" target="_blank"><img src="https://github.com/Ocovert/Tutorial/blob/master/youtube.png" 
+alt="Computer Parts Explained" width="240" height="180" border="10" /></a>
+
+***
 
 [Return](/README.md)
