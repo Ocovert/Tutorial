@@ -20,3 +20,6 @@ This tutorial is for anyone looking to purchase/build their own computer or just
 * [Mother Boards(MBD)](/Covert_MB.md)
 
 * [Check Components & Compatability](/Covert_Build.md)
+
+
+***
