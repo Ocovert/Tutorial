@@ -13,7 +13,7 @@ For my Final Project for INFOTC 2600 I am creating a tutorial on the different c
 
 * [Random Access Memory(RAM)](/Covert_RAM.md)
 
-* [Grapics Cards(GPU)](/Covert_GPU.md)
+* [Grapics/Video Cards(GPU)](/Covert_GPU.md)
 
 * [Power Suplies(PSU)](/Covert_PSU.md)
 
