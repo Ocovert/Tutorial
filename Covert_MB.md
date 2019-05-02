@@ -24,7 +24,7 @@ Motherboards are all pretty similar. That being said, aspecs you need to be awar
 </td><td align="center">     4</td></tr><tr><td>picoBTX</td><td>203 mm x 267 mm
 </td><td align="center">     1</td></tr></tbody></table>
 
-##### Table from https://ccm.net/contents/377-motherboard
+##### _Table from "https://ccm.net/contents/377-motherboard"_
 
 ***
 
