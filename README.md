@@ -11,12 +11,12 @@ This tutorial is for anyone looking to purchase/build their own computer or just
 
 * [Solid State Drive(SSD)/Hard Disk Drive(HDD)](/Covert_Drives.md)
 
-* [Mother Boards(MBD)](/Covert_MB.md)
-
 * [Random Access Memory(RAM)](/Covert_RAM.md)
 
 * [Grapics/Video Cards(GPU)](/Covert_GPU.md)
 
 * [Power Suplies(PSU)](/Covert_PSU.md)
+
+* [Mother Boards(MBD)](/Covert_MB.md)
 
 * [Check Components & Compatability](/Covert_Build.md)
