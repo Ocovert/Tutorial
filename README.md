@@ -5,6 +5,8 @@ For my Final Project for INFOTC 2600 I am creating a tutorial on the different c
 
 This tutorial is for anyone looking to purchase/build their own computer or just want to be more knowledgeable on computer hardware.
 
+***
+
 ## INDEX
 
 * [Central Processing Units(CPU)](/Covert_CPU.md)
