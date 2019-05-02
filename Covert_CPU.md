@@ -2,6 +2,8 @@
 _The Brain_
 ***
 
+<img src="https://github.com/Ocovert/Tutorial/blob/master/cpu.jpg" width="100" height="100" alt="CPU"/>
+
 ## What It Does
 The CPU is the primary component of every computer. It processes instructions and runs the operating system(OS) as well as its applications/software. The CPU is constantly receiving and sending constant input/outputing to and from both active software programs and the user. Each CPU contains at least on processor, this is the chip inside the CPU that performs all its calculations. 
 
