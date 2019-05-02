@@ -9,7 +9,7 @@ For my Final Project for INFOTC 2600 I am creating a tutorial on the different c
 
 * [Solid State Drive(SSD)/Hard Disk Drive(HDD)](/Covert_Drives.md)
 
-* [Mother Boards](/Covert_MB.md)
+* [Mother Boards(MBD)](/Covert_MB.md)
 
 * [Random Access Memory(RAM)](/Covert_RAM.md)
 
