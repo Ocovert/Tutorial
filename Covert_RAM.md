@@ -15,3 +15,7 @@ RAM comes in varius shapes and sizes depending on the computer. RAM comes in sti
 * Double Data Rate(DDR) represents the type of RAM. Each one doubling the data and transfer rates of the previous.
 
 ![DDR Table](https://github.com/Ocovert/Tutorial/blob/master/DDR_Table.jpg "DDR Table")
+
+***
+
+[Return](/README.md)
