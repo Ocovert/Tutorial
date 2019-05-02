@@ -10,7 +10,7 @@ A computers graphics/video card is a circuit board that plugs into your computer
 
 *** 
 
-## Noticeable Impacts _- with a good monitor_ 
+## Noticeable Impacts _(with a sufficient monitor)_ 
 * Frame Rate - The frequency at which frames on a users screen can be displayed
 * System Graphics - Renders higher quality 3D and 2D images
 * No screen tearing
