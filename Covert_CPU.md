@@ -10,3 +10,7 @@ The CPU is the primary component of every computer. It processes instructions an
 * CPU speed is measured in gigahertz(GHz) denotes how many instructions a CPU can handle per second.
 * Multi-Threading: essencialy creates virtual CPU cores/chips to use.
 * CPU's now normally have multiple cores. More cores = performing more instructions at once.
+
+***
+
+[Return](/README.md)
