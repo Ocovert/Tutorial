@@ -17,3 +17,6 @@ SSDs rely on electronic storage in non-volatile memory, meaning that data won’
 | HDD      | Cheap | Slower | Less Durable | 10 TB | Less Efficient |
 | SSD      | Expensive | Faster | More Durable | 4 TB | More Efficient |
 
+***
+
+[Return](/README.md)
