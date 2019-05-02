@@ -17,3 +17,7 @@ A computers graphics/video card is a circuit board that plugs into your computer
 
 ## The Breakdown
 Graphics/Video Cards are extremely helpful for any computer system no matter what. Just know that more memory(RAM) and more cores(GPUs), essentially, means higher quality and higher price.
+
+***
+
+[Return](/README.md)
