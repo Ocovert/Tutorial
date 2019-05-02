@@ -1,6 +1,9 @@
 # Hard Disk Drives & Solid State Drives
 _This acts as the longterm memory of the computer. Where things such as the users Apps, Photos, Music, and Documents are stored._
 
+<img src="https://github.com/Ocovert/Tutorial/blob/master/Drives.jpg" width="270" height="158" alt="drives"/>
+
+
 ***
 
 ### Hard Disk Drives
