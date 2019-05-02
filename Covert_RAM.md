@@ -3,8 +3,6 @@ _I like to think of these as the reflexes of the computer._
 
 ***
 
-<img src="https://github.com/Ocovert/Tutorial/blob/master/ram.jpg" width="200" height="200" alt="CPU"/>
-
 
 ## **What Does RAM Do?**
 
