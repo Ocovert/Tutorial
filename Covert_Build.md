@@ -10,3 +10,8 @@ _Everything I have taught you up until now has lead to this moment, if you so ch
 ### For Building (Check A Builds Compatability & Specs)
 * [PC Part Picker](https://pcpartpicker.com/ "Check Build Compatability")
 * [User Benchmark](https://www.userbenchmark.com/PCBuilder "Comparing Builds/Components")
+
+***
+
+
+[Return](.../README.md)
